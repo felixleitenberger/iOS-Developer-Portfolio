@@ -1,5 +1,12 @@
 # iOS-Developer-Portfolio
 Felix Leitenberger - iOS Developer Portfolio
 
-tbc
-![Simulator Screen Shot - iPhone 11 Pro Max - 2020-10-18 at 17 05 55](https://github.com/felixleitenberger/iOS-Developer-Portfolio/assets/101555763/a94b19d6-a0f2-4f2f-821d-80d5f3d16e83)
+## Courses
+I did some courses, probably too many:
+- From Beginner to iOS App Developer with Just One Course! (Angela Yu, [Udemy](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/29479592?start=1#overview))
+- 100DaysOfSwift (Paul Hudson, [HackingWithSwift](https://hackingwithswift.com))
+- iOS-Dev Launchpad (Sean Allen, [teachable (it's free now)](https://seanallen.teachable.com)
+- SwiftUI Fundamentals (Sean Allen, [teachable (it's free now)](https://seanallen.teachable.com)
+- iOS Dev Job Interview Practice (Sean Allen, [teachable (it's free now)](https://seanallen.teachable.com)
+- Dub Dub Grub, SwiftUI, MapKit, CloudKit (Sean Allen, [teachable](https://seanallen.teachable.com)
+- Portfolio Piece, SwiftUI, HealthKit, Charts (Sean Allen, [teachable](https://seanallen.teachable.com)
